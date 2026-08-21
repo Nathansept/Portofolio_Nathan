@@ -30,9 +30,9 @@ const CONFIG = {
   //    {{from_name}}, {{from_email}}, {{subject}}, {{message}}
   //    Set "To Email" = nathanseptiantimotius123@gmail.com
   // 4. Copy your Public Key from Account → API Keys
-  EMAILJS_PUBLIC_KEY:  'YOUR_PUBLIC_KEY',    // ← replace
-  EMAILJS_SERVICE_ID:  'YOUR_SERVICE_ID',    // ← replace
-  EMAILJS_TEMPLATE_ID: 'YOUR_TEMPLATE_ID',  // ← replace
+  EMAILJS_PUBLIC_KEY:  'o-EHNOcbLIPpqW7n1',    // ← replace
+  EMAILJS_SERVICE_ID:  'service_97tyota',    // ← replace
+  EMAILJS_TEMPLATE_ID: 'template_hhmk456',  // ← replace
 
   // ── GitHub ────────────────────────────────────────────────
   GITHUB_USERNAME: 'Nathansept',
